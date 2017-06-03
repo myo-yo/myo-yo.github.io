@@ -11,7 +11,7 @@ email: myomotodq2@gmail.com
 description: 主にゲームのことについてtwitterに書ききれなかったりやった記録を残しておきたいときに使うブログ的な何か。
   もうずっと寝ていたい。
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "myo-yo.github.io" # the base hostname & protocol for your site
 twitter_username: myomoto_dq2
 github_username:  myo-yo
 paginate: 5
