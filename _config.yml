@@ -8,10 +8,10 @@
 # Site settings
 title: 寝ていたい
 email: myomotodq2@gmail.com
-description: 主にゲームのことについてtwitterに書ききれなかったりやった記録を残しておきたいときに使うブログ的な何か。
+description: 主にゲームのことについてtwitterに書ききれなかったりやった記録を残しておきたいときに使う何か。
   もうずっと寝ていたい。
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "myo-yo.github.io" # the base hostname & protocol for your site
+baseurl: "/wanto-sleep" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 twitter_username: myomoto_dq2
 github_username:  myo-yo
 paginate: 5
