@@ -10,7 +10,7 @@ title: 寝ていたい
 email: myomotodq2@gmail.com
 description: 主にゲームについて、思ったけどtwitterには書ききれなかったり、やった記録を残しておきたいときに雑に利用するもの。
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "wantosleep.com" # the base hostname & protocol for your site
 twitter_username: myomoto_dq2
 github_username:  myo-yo
 paginate: 5
