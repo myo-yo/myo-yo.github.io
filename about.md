@@ -11,9 +11,6 @@ permalink: /about/
 
 # 人
 
-![](/_img/nabepa.png "プロフ画像")
-![](/nabepa.png "プロフ画像")
-
 花の17歳現役女子高生です<br>
 twitterのつぶやきとか見ればだいたわかるんじゃないかな……<br>
 そんなtwitterアカウントは[こちら](https://twitter.com/myomoto_dq2)
