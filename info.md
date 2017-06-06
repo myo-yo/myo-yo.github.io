@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: info
-permalink: /info/
-category: "info"
+title: science
+permalink: /science/
+category: "science"
 tagline: ""
 ---
