@@ -8,6 +8,6 @@
   "scripts": {
     "build": "bundle exec jekyll build",
     "deploy": "npm run build && gh-pages -d _site",
-    "publish": "npm run build && cd _site && git init && git branch -D gh-pages && git checkout -b gh-pages && git add --all && git commit -m gh-pages && git push https://github.com/myo-yo/myo-yo.github.io.git gh-pages -f"
+    "publish": "npm run build && cd _site && git init && git checkout -b gh-pages && git add --all && git commit -m gh-pages && git push https://github.com/myo-yo/myo-yo.github.io.git gh-pages -f"
   }
 }
