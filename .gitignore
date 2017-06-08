@@ -4,3 +4,4 @@ _site
 .sass-cache
 .jekyll-metadata
 **.orig
+.DS_Store
