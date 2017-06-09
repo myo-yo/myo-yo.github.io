@@ -3,6 +3,7 @@ layout: post
 title:  "最近のFEH事情"
 date:   2016-06-09 22:15:00
 categories: game
+description: "直近のFEHでの状況とか書いておく"
 ---
 #  大英雄戦 ロイド
 ☆4含めてゲット済み<br>
